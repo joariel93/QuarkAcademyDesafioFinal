@@ -1,0 +1,12 @@
+﻿  LibroDataHelper.cpp
+E:\DiplomaturaUE\PruebaPracticaQuark\DesafioFinalSegundaChance\DesafioFinalSegundaChance\DataHelpers\SocioDataHelper.h(13,2): warning C4091: 'static ': se ha omitido a la izquierda de 'SocioDataHelper' cuando no hay ninguna variable declarada
+E:\DiplomaturaUE\PruebaPracticaQuark\DesafioFinalSegundaChance\DesafioFinalSegundaChance\DataHelpers\DataHelper.h(37,2): warning C4091: 'static ': se ha omitido a la izquierda de 'DataHelper' cuando no hay ninguna variable declarada
+E:\DiplomaturaUE\PruebaPracticaQuark\DesafioFinalSegundaChance\DesafioFinalSegundaChance\DataHelpers\EjemplarDataHelper.h(13,2): warning C4091: 'static ': se ha omitido a la izquierda de 'EjemplarDataHelper' cuando no hay ninguna variable declarada
+E:\DiplomaturaUE\PruebaPracticaQuark\DesafioFinalSegundaChance\DesafioFinalSegundaChance\DataHelpers\LibroDataHelper.h(24,2): warning C4091: 'static ': se ha omitido a la izquierda de 'LibroDataHelper' cuando no hay ninguna variable declarada
+  SocioDataHelper.cpp
+E:\DiplomaturaUE\PruebaPracticaQuark\DesafioFinalSegundaChance\DesafioFinalSegundaChance\DataHelpers\EjemplarDataHelper.h(13,2): warning C4091: 'static ': se ha omitido a la izquierda de 'EjemplarDataHelper' cuando no hay ninguna variable declarada
+E:\DiplomaturaUE\PruebaPracticaQuark\DesafioFinalSegundaChance\DesafioFinalSegundaChance\DataHelpers\LibroDataHelper.h(24,2): warning C4091: 'static ': se ha omitido a la izquierda de 'LibroDataHelper' cuando no hay ninguna variable declarada
+E:\DiplomaturaUE\PruebaPracticaQuark\DesafioFinalSegundaChance\DesafioFinalSegundaChance\DataHelpers\DataHelper.h(37,2): warning C4091: 'static ': se ha omitido a la izquierda de 'DataHelper' cuando no hay ninguna variable declarada
+E:\DiplomaturaUE\PruebaPracticaQuark\DesafioFinalSegundaChance\DesafioFinalSegundaChance\DataHelpers\SocioDataHelper.h(13,2): warning C4091: 'static ': se ha omitido a la izquierda de 'SocioDataHelper' cuando no hay ninguna variable declarada
+  Generando código...
+  DesafioFinalSegundaChance.vcxproj -> E:\DiplomaturaUE\PruebaPracticaQuark\DesafioFinalSegundaChance\Debug\DesafioFinalSegundaChance.exe
